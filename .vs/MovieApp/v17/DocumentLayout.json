@@ -1,0 +1,617 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|c:\\users\\andre\\onedrive\\desktop\\faklutet\\6ti semestar\\is\\movieapp\\movieapp\\movieapp\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\movieapp\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\movieapp\\views\\tickets\\addtocart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\views\\tickets\\addtocart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\movieapp\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\movieapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\movieapp\\models\\ticketinorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\models\\ticketinorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\movieapp\\models\\addtocartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\models\\addtocartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\movieapp\\views\\tickets\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\views\\tickets\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\movieapp\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\movieapp\\views\\tickets\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\views\\tickets\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\movieapp\\views\\tickets\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\views\\tickets\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\movieapp\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\movieapp\\models\\eshopapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\models\\eshopapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\movieapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\movieapp\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\movieapp\\models\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\models\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\movieapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\movieapp\\views\\tickets\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\views\\tickets\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\movieapp\\views\\tickets\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\views\\tickets\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\movieapp\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\movieapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\movieapp\\views\\orders\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\views\\orders\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\movieapp\\views\\orders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\views\\orders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\movieapp\\views\\orders\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\views\\orders\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\movieapp\\views\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\views\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\movieapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\movieapp\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\movieapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\movieapp\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\movieapp\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\movieapp\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\movieapp\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\movieapp\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\movieapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\movieapp\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Migrations\\20240328044543_Initial1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:MovieApp\\Migrations\\20240328044543_Initial1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Migrations\\20240328032706_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:MovieApp\\Migrations\\20240328032706_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddToCart.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Views\\Tickets\\AddToCart.cshtml",
+              "RelativeDocumentMoniker": "MovieApp\\Views\\Tickets\\AddToCart.cshtml",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Views\\Tickets\\AddToCart.cshtml",
+              "RelativeToolTip": "MovieApp\\Views\\Tickets\\AddToCart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T05:02:17.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Views\\Tickets\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MovieApp\\Views\\Tickets\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Views\\Tickets\\Edit.cshtml",
+              "RelativeToolTip": "MovieApp\\Views\\Tickets\\Edit.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T05:03:15.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Views\\Tickets\\Details.cshtml",
+              "RelativeDocumentMoniker": "MovieApp\\Views\\Tickets\\Details.cshtml",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Views\\Tickets\\Details.cshtml",
+              "RelativeToolTip": "MovieApp\\Views\\Tickets\\Details.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwBAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T05:03:08.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TicketsController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Controllers\\TicketsController.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Controllers\\TicketsController.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Controllers\\TicketsController.cs",
+              "RelativeToolTip": "MovieApp\\Controllers\\TicketsController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAA9wEgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T00:41:51.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "MovieApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "MovieApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAADgAAAAAAAAAAAAIwFUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T05:10:50.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Models\\Movie.cs",
+              "RelativeToolTip": "MovieApp\\Models\\Movie.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBQAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T21:13:56.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Views\\Orders\\Index.cshtml",
+              "RelativeDocumentMoniker": "MovieApp\\Views\\Orders\\Index.cshtml",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Views\\Orders\\Index.cshtml",
+              "RelativeToolTip": "MovieApp\\Views\\Orders\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAADsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T04:31:43.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "MovieApp\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAKwAAAAAAAAAAAAmwOIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T03:36:32.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Views\\Tickets\\Index.cshtml",
+              "RelativeDocumentMoniker": "MovieApp\\Views\\Tickets\\Index.cshtml",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Views\\Tickets\\Index.cshtml",
+              "RelativeToolTip": "MovieApp\\Views\\Tickets\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T05:03:23.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TicketInOrder.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Models\\TicketInOrder.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Models\\TicketInOrder.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Models\\TicketInOrder.cs",
+              "RelativeToolTip": "MovieApp\\Models\\TicketInOrder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T03:29:41.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Program.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Program.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Program.cs",
+              "RelativeToolTip": "MovieApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T13:46:58.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MovieApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T18:14:52.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddToCartViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Models\\AddToCartViewModel.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Models\\AddToCartViewModel.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Models\\AddToCartViewModel.cs",
+              "RelativeToolTip": "MovieApp\\Models\\AddToCartViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T07:45:28.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Models\\OrderDto.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Models\\OrderDto.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Models\\OrderDto.cs",
+              "RelativeToolTip": "MovieApp\\Models\\OrderDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T03:30:53.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EShopApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Models\\EShopApplicationUser.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Models\\EShopApplicationUser.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Models\\EShopApplicationUser.cs",
+              "RelativeToolTip": "MovieApp\\Models\\EShopApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T21:41:05.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Models\\Order.cs",
+              "RelativeToolTip": "MovieApp\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T03:28:59.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MovieApp\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T18:18:29.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "MovieApp\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T18:19:01.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Views\\Tickets\\Create.cshtml",
+              "RelativeDocumentMoniker": "MovieApp\\Views\\Tickets\\Create.cshtml",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Views\\Tickets\\Create.cshtml",
+              "RelativeToolTip": "MovieApp\\Views\\Tickets\\Create.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAIwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T05:02:46.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Views\\Tickets\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MovieApp\\Views\\Tickets\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Views\\Tickets\\Delete.cshtml",
+              "RelativeToolTip": "MovieApp\\Views\\Tickets\\Delete.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAIwBsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T05:03:00.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "MovieApp\\Controllers\\MoviesController.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAwwJ4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T22:01:22.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Views\\Orders\\Create.cshtml",
+              "RelativeDocumentMoniker": "MovieApp\\Views\\Orders\\Create.cshtml",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Views\\Orders\\Create.cshtml",
+              "RelativeToolTip": "MovieApp\\Views\\Orders\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T04:43:51.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Views\\Orders\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MovieApp\\Views\\Orders\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Views\\Orders\\Delete.cshtml",
+              "RelativeToolTip": "MovieApp\\Views\\Orders\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T04:44:11.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Views\\Orders\\Details.cshtml",
+              "RelativeDocumentMoniker": "MovieApp\\Views\\Orders\\Details.cshtml",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Views\\Orders\\Details.cshtml",
+              "RelativeToolTip": "MovieApp\\Views\\Orders\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T04:44:19.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Views\\Orders\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MovieApp\\Views\\Orders\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Views\\Orders\\Edit.cshtml",
+              "RelativeToolTip": "MovieApp\\Views\\Orders\\Edit.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAIwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T04:44:41.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MovieApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MovieApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T04:45:02.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20240328044543_Initial1.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Migrations\\20240328044543_Initial1.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Migrations\\20240328044543_Initial1.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Migrations\\20240328044543_Initial1.cs",
+              "RelativeToolTip": "MovieApp\\Migrations\\20240328044543_Initial1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T04:45:43.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "serviceDependencies.json",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Properties\\serviceDependencies.json",
+              "RelativeDocumentMoniker": "MovieApp\\Properties\\serviceDependencies.json",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Properties\\serviceDependencies.json",
+              "RelativeToolTip": "MovieApp\\Properties\\serviceDependencies.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-28T04:36:00.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MovieApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MovieApp\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-28T04:35:58.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MovieApp\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "MovieApp\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T04:35:37.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MovieApp\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "MovieApp\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T04:35:35.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "MovieApp\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "MovieApp\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T04:35:26.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MovieApp\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeToolTip": "MovieApp\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T04:35:23.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Models\\Ticket.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Models\\Ticket.cs",
+              "RelativeToolTip": "MovieApp\\Models\\Ticket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T21:38:43.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20240328032706_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Migrations\\20240328032706_InitialMigration.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Migrations\\20240328032706_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Migrations\\20240328032706_InitialMigration.cs",
+              "RelativeToolTip": "MovieApp\\Migrations\\20240328032706_InitialMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T03:27:06.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\appsettings.json",
+              "RelativeDocumentMoniker": "MovieApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\appsettings.json",
+              "RelativeToolTip": "MovieApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-25T11:05:36.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\MovieApp\\MovieApp\\MovieApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "MovieApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T00:45:14.534Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

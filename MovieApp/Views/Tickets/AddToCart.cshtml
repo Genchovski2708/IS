@@ -1,0 +1,24 @@
+﻿@model MovieApp.Models.TicketInOrder
+
+<h1>Order Ticket</h1>
+
+<div class="row">
+    <h3>Movie Information:</h3>
+    <p>Movie name: @Model.Ticket.Movie.MovieName</p>
+    <p>Movie description: @Model.Ticket.Movie.MovieDescription</p>
+    <p>Movie rating: @Model.Ticket.Movie.Rating</p>
+    <p><strong>Movie Price: @Model.Ticket.Price $</strong></p>
+    <div class="col-4">
+        <form asp-action="AddToCartConfirmed" method="post">
+            <input type="hidden" asp-for="TicketId" />
+
+            <div class="form-group">
+                <!-- Input field for entering quantity -->
+                <label for="quantity">Tickets:</label>
+                <input type="number" name="quantity" id="quantity" value="1" min="1" /> <!-- Setting minimum value as 1 -->
+
+                <input type="submit" value="Add To Cart" class="btn-success ml-3" />
+            </div>
+        </form>
+    </div>
+</div>
